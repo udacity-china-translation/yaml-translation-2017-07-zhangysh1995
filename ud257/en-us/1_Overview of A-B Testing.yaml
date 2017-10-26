@@ -859,8 +859,6 @@ concepts:
           ### Useful equations
           You may find these equations helpful in solving the quiz:  
           ![p_hat = X/N  SE = sqrt(p_hat (1-p_hat) / N)  m = z* SE](//lh3.googleusercontent.com/7G4sR5EnVaKfqmc98cJorT0F9TtKIYEql7WDIYuemeWSGcGf6fW_MqrxR8fAs39n6gdmZ2ubbg28ttH_O9c=s0#w=134&h=128)
-          ### Standard deviation of binomial
-          If you look up a binomial distribution elsewhere, you may find that it has a mean of <span class="mathquill">np</span> and a standard deviation of <span class="mathquill">\sqrt{np(1-p)}</span>. This is for a binomial distribution defined as the total number of successes, whereas we will use the fraction or proportion of successes throughout this class. In this case, the mean is <span class="mathquill">p</span> and standard deviation is <span class="mathquill">\sqrt{\frac{p(1-p)}{n}}</span>.
         instruction:
           video:
             id: '19373'
@@ -986,7 +984,7 @@ concepts:
 
           1. A statistically significant positive result
           2. A statistically significant negative result
-          3.  No statistically significant difference.
+          3. No statistically significant difference.
 
           Sometimes when people run A/B tests, they will use a one-tailed test, which only allows you to distinguish between two cases:
 

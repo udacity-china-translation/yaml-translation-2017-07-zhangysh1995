@@ -113,7 +113,7 @@ concepts:
         tags: []
         instructor_notes: |-
           ### 统计学课程
-          如果需要详细了解统计学，或温习一些已有的知识，请查看优达学城的 <a href="https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827/" target="_blank">描述统计学</a>和 <a href="https://cn.udacity.com/course/intro-to-inferential-statistics--ud201/" target="_blank">推论统计学</a>课程。
+          如果需要详细学习统计学，或温习一些已经学过的相关知识，请查看优达学城的 <a href="https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827/" target="_blank">描述性统计学</a>和 <a href="https://cn.udacity.com/course/intro-to-inferential-statistics--ud201/" target="_blank">推断统计学</a>课程。
         resources:
           files: []
           google_plus_link: null
@@ -160,18 +160,18 @@ concepts:
         is_public: true
         tags: []
         instructor_notes: |-
-          ### 行业内 A/B 测试示例：
+          ### 工业界中使用 A/B 测试的例子：
 
           **视频中提到的例子：**
           * Google <a href="http://www.nytimes.com/2009/03/01/business/01marissa.html?pagewanted=3" target="_blank">测试了 41 种不同的蓝色阴影</a>。
-          * Amazon 通过一项 <a href="http://www.exp-platform.com/Documents/GuideControlledExperiments.pdf" target="_blank">A/B 测试， 初步决定推出首款推荐的个性化产品，因为该测试表明增加此功能可以带来很大收益</a>（见简介第二段）。
-          * LinkedIn <a href="http://engineering.linkedin.com/mobile/mobile-ab-testing-linkedin-how-members-shape-our-apps" target="_blank"> 测试了是否要将用户信息流的榜首用于显示最新新闻文章或鼓励添加更多联系人的提示</a>（参见“基于 JSON 观点的 A/B 测试”部分中的第一段）。
-          * Amazon 确定了<a href="http://www.exp-platform.com/Documents/IEEEComputer2007OnlineExperiments.pdf" target="_blank"> 页面加载时间每增加 100 毫秒，会使销量下降 1%</a>（最后一页的“二级指标”部分）。
-          * Google 的<a href="http://googleresearch.blogspot.com/2009/06/speed-matters.html" target="_blank">延迟结果</a>证明了同样的 100 毫秒延迟影响。
+          * Amazon 通过一项 <a href="http://www.exp-platform.com/Documents/GuideControlledExperiments.pdf" target="_blank">增加 A/B 测试这种特性可以提高收益</a>（见简介第二段）。
+          * LinkedIn <a href="http://engineering.linkedin.com/mobile/mobile-ab-testing-linkedin-how-members-shape-our-apps" target="_blank"> 测试了是否应该将最新新闻文章或建议添加更多联系人的提示放在用户信息流的榜首</a>（参见“基于 JSON 观点的 A/B 测试”部分中的第一段）。
+          * Amazon 确定了<a href="http://www.exp-platform.com/Documents/IEEEComputer2007OnlineExperiments.pdf" target="_blank"> 页面加载时间每增加 100 毫秒，销量将下降 1%</a>（最后一页的“二级指标”部分）。
+          * Google 的<a href="http://googleresearch.blogspot.com/2009/06/speed-matters.html" target="_blank">延迟结果</a>证明了 100 毫秒延迟有同样的影响 。
 
           **其他例子：**
 
-          * Kayak <a href="http://apptimize.com/blog/2014/03/kayaks-most-interesting-ab-test/" target="_blank">测试了通知用户已对他们的支付加密是否会增加他们完成付款的几率</a>。
+          * Kayak <a href="http://apptimize.com/blog/2014/03/kayaks-most-interesting-ab-test/" target="_blank">测试了用户在已知他们的支付被加密的情况下，完成这份订单的概率变化</a>。
           * 可汗学院 (Khan Academy) 测试了<a href="http://apptimize.com/blog/2014/07/how-khan-academy-uses-ab-testing-to-improve-student-learning/" target="_blank"> 让学生知道有多少其他学生正在跟他们一起做同样的练习，或使学生更容易地通过他们已经掌握的技能等变化的效果</a>（参见问题“你见过的最有意思的 A/B 测试是什么？”）。
         resources:
           files: []
@@ -201,7 +201,7 @@ concepts:
     key: '40043986750923'
     locale: zh-cn
     version: 1.0.0
-    title: 使用 A/B 测试你可以做和不可以做的事
+    title: 使用 A/B 测试可以做到和不可以做到的事情
     semantic_type: Concept
     updated_at: 'Sun Sep 04 2016 13:25:16 GMT+0000 (UTC)'
     is_public: true
@@ -213,7 +213,7 @@ concepts:
         key: '4004398675'
         locale: zh-cn
         version: 1.0.0
-        title: 使用 A/B 测试你可以做和不可以做的事
+        title: 使用 A/B 测试可以做到和不可以做到的事情
         semantic_type: QuizAtom
         updated_at: 'Tue Jun 27 2017 23:50:00 GMT+0000 (UTC)'
         is_public: true
@@ -225,7 +225,7 @@ concepts:
           office_hours_link: null
         instructor_notes: |-
           ### 跳至示例 A/B 测试
-          <a href="https://classroom.udacity.com/courses/ud257/lessons/4018018619/concepts/40043986830923" target="_blank">单击此处</a>跳至示例 A/B 测试的描述，我们将在课程的剩余部分进行分析。
+          <a href="https://classroom.udacity.com/courses/ud257/lessons/4018018619/concepts/40043986830923" target="_blank">单击此处</a>跳至我们将在课程的剩余部分进行分析的 A/B 测试描述实例，。
         instruction:
           video:
             id: '28050'
@@ -276,7 +276,7 @@ concepts:
     key: '40043986780923'
     locale: zh-cn
     version: 1.0.0
-    title: 更多 A/B 测试可能性
+    title: 更多使用 A/B 测试的可能性
     semantic_type: Concept
     updated_at: 'Sun Sep 04 2016 13:25:18 GMT+0000 (UTC)'
     is_public: true
@@ -288,7 +288,7 @@ concepts:
         key: '4004398678'
         locale: zh-cn
         version: 1.0.0
-        title: 更多 A/B 测试可能性
+        title: 更多使用 A/B 测试的可能性
         semantic_type: QuizAtom
         updated_at: 'Tue Jun 27 2017 23:53:30 GMT+0000 (UTC)'
         is_public: true
@@ -487,7 +487,7 @@ concepts:
     key: '40043986840923'
     locale: zh-cn
     version: 1.0.0
-    title: 度量选择
+    title: 公制选择
     semantic_type: Concept
     updated_at: 'Sun Sep 04 2016 13:25:23 GMT+0000 (UTC)'
     is_public: true
@@ -499,7 +499,7 @@ concepts:
         key: '4004398684'
         locale: zh-cn
         version: 1.0.0
-        title: 度量选择
+        title: 公制选择
         semantic_type: VideoAtom
         updated_at: 'Wed Jun 28 2017 00:26:28 GMT+0000 (UTC)'
         is_public: true
@@ -579,7 +579,7 @@ concepts:
     key: '40043986860923'
     locale: zh-cn
     version: 1.0.0
-    title: 重复实验
+    title: 重复一个实验
     semantic_type: Concept
     updated_at: 'Sun Sep 04 2016 13:25:24 GMT+0000 (UTC)'
     is_public: true
@@ -591,7 +591,7 @@ concepts:
         key: '4004398686'
         locale: zh-cn
         version: 1.0.0
-        title: 重复实验
+        title: 重复一个实验
         semantic_type: QuizAtom
         updated_at: 'Tue Jun 27 2017 23:47:47 GMT+0000 (UTC)'
         is_public: true
@@ -722,11 +722,11 @@ concepts:
           office_hours_link: null
         instructor_notes: |-
           ### 探索二项分布
-          尝试使用<a href="http://databits.io/bits/fbmx-binomial-distribution" target="_blank">此网站</a>更清楚地了解二项分布。 你可以在顶部选择两个二项分布的 n（生成事件的数量）和 p（每个事件的成功概率），然后进行比较。此网站会将一个分布以柱子表示，另一个以点表示，共两个图形。 上面的图形显示每个 k 的某些具体成功次数 k 会发生的概率，下面的图形显示 k 处或更少成功次数发生的累积概率（所以最右边的概率 (k >= n) 将始终为 1）。
+          尝试使用<a href="http://databits.io/bits/fbmx-binomial-distribution" target="_blank">此网站</a>更清楚地了解二项分布。 你可以在顶部选择两个二项分布的 n（生成事件的数量）和 p（每个事件的成功概率），然后进行比较。此网站会将一个分布以柱状图表示，另一个以散点图表示，共两个图形。 上面的图形显示每个 k 的某些具体成功次数 k 会发生的概率，下面的图形显示 k 处或更少成功次数发生的累积概率（所以最右边的概率 (k >= n) 将始终为 1）。
 
-          在底部，你可以玩一个游戏，比如掷骰子几次（设定多个不同的成功定义），记录成功的概率。随着你不断尝试，你得到的概率分布会越来越类似于二项分布。
+          在底部，你可以玩一个游戏，比如掷骰子多次（多设定几个不同的成功标准），并记录成功的次数。随着你尝试次数的增多，得到的次数分布规律会越来越近似于二项分布。
 
-          尝试使用<a href="http://databits.io/bits/fbmx-binomial-distribution" target="_blank">此网站</a>更清楚地了解二项分布。 你可以在顶部选择两个二项分布的 N（生成事件的数量）和 p（每个事件的成功概率），然后进行比较。此网站会将一个分布以柱子表示，另一个以点表示，共两个图形。 上面的图形显示某些具体成功次数会发生的概率，下面的图形显示某些成功次数最多会发生的概率（所以最右边的概率将始终为 1）。
+          尝试使用<a href="http://databits.io/bits/fbmx-binomial-distribution" target="_blank">此网站</a>更清楚地了解二项分布。 你可以在顶部选择两个二项分布的 N（生成事件的数量）和 p（每个事件的成功概率），然后进行比较。此网站会将一个分布以柱状图表示，另一个以散点图表示，共两个图形。 上面的图形显示部分事件成功发生的概率，下面的图形显示部分事件成功次数发生的最大概率（所以最右边的概率将始终为 1）。
         instruction:
           video:
             id: '25988'
@@ -847,14 +847,14 @@ concepts:
           office_hours_link: null
         instructor_notes: |-
           ### z-值表
-          你可以使用<a href="http://www.utdallas.edu/dept/abp/zscoretable.pdf" target="_blank">此 z-值表</a>。
+          你可以使用<a href="http://www.utdallas.edu/dept/abp/zscoretable.pdf" target="_blank">此 z 值表</a>。
 
-          如果你不记得如何阅读 z-值表，<a href="http://www.had2know.com/academics/normal-distribution-table-z-scores.html" target="_blank">此页面</a>包含相关说明。
+          如果你不记得如何使用 z-值表，<a href="http://www.had2know.com/academics/normal-distribution-table-z-scores.html" target="_blank">此页面</a>包含相关说明。
 
           ### 二项式的标准偏差
-          如果你在其他地方查看二项分布，你会发现它的均值为 <span class="mathquill">np</span>，标准偏差为 <span class="mathquill">\sqrt{np(1-p)}</span>。 这是定义为成功总数的二项分布，而我们将在整个课程中使用分数或成功比例。 在这个情形下，均值为 <span class="mathquill">p</span>，标准偏差为 <span class="mathquill">\sqrt{\frac{p(1-p)}{n}}</span>。
+          如果你在其他地方查看二项分布，你会发现它的均值为 <span class="mathquill">np</span>，标准偏差为 <span class="mathquill">\sqrt{np(1-p)}</span>。 这是表达事件成功数的二项分布，而我们将在整个课程中使用成功的分数占比或百分比。 在这个情形下，均值为 <span class="mathquill">p</span>，标准偏差为 <span class="mathquill">\sqrt{\frac{p(1-p)}{n}}</span>。
 
-          ### 有用公式
+          ### 有用的公式
           这些公式可能会对解答此测试题有帮助：
           ![p_hat = X/N  SE = sqrt(p_hat (1-p_hat) / N)  m = z* SE](//lh3.googleusercontent.com/7G4sR5EnVaKfqmc98cJorT0F9TtKIYEql7WDIYuemeWSGcGf6fW_MqrxR8fAs39n6gdmZ2ubbg28ttH_O9c=s0#w=134&h=128)
         instruction:
@@ -978,18 +978,18 @@ concepts:
         instructor_notes: |-
           ### 双尾检验与单尾检验
 
-          此处提出的零假设和对立假设对应于一个双尾检验，让你可以区分三种情况：
+          此处提出的零假设和对立假设对应于一个双尾检验，这样你可以区分三种情况：
 
           1. 统计显著阳性结果
           2. 统计显著阴性结果
           3. 无显著统计差异。
 
-          有时候当人们进行 A/B 测试时，他们会使用单尾检验，这只会让你区别两种情况：
+          有时候人们会使用单尾检验进行 A/B 测试，这样只能让你区分两种情况：
 
           1. 统计显著阳性结果
           2. 无统计显著结果
 
-          你应该使用哪一个取决于你将根据结果采取什么措施。 如果你启动实验是为了了解统计显著的阳性变化，仅此而已，则不需要区分阴性结果和无结果，单尾检验就足够了。 如果你想了解差异的方向，则有必要采用双尾检验。
+          你应该使用哪一个取决于你将根据结果采取什么行动。 如果你启动实验是为了了解统计显著的阳性变化，仅此而已，则不需要区分阴性结果和无结果，单尾检验就足够了。 如果你想了解差异的方向，则有必要采用双尾检验。
         instruction:
           video:
             id: '30900'
@@ -1224,7 +1224,7 @@ concepts:
     key: '40043987050923'
     locale: zh-cn
     version: 1.0.0
-    title: 页面浏览数如何影响敏感性
+    title: 页面浏览数如何影响用户敏感性
     semantic_type: Concept
     updated_at: 'Sun Sep 04 2016 13:25:33 GMT+0000 (UTC)'
     is_public: true
@@ -1294,10 +1294,10 @@ concepts:
           office_hours_link: null
         instructor_notes: |-
           ### 功效说明
-          统计学教材对功效的定义往往将其与敏感性的意义等同，即 1 - beta。 然而，它的会话含义通常是指测试得出正确结论的概率，而且这个概率取决于 alpha 和 beta。 在这节课中，我们将使用第二个定义，并使用敏感性指代 1 - beta。
+          统计学教材对功效的定义往往将其与敏感性的含义等同，即 1 - beta。 然而，它的会话含义通常是指你的测试得出正确结论的概率，而且这个概率同时取决于 alpha 和 beta。 在这门课中，我们将使用第二个含义，并使用敏感性指代 1 - beta。
 
           ### 在线样本容量计算器
-          使用<a href="http://www.evanmiller.org/ab-testing/sample-size.html" target="_blank">此计算器</a> 来确定我们的实验中需要收集的页面视图数量。确保选择绝对差，而非相对差。
+          使用<a href="http://www.evanmiller.org/ab-testing/sample-size.html" target="_blank">此计算器</a> 来确定我们的实验中需要收集的页面视图数量。请确保你选择了绝对差，而不是相对差。
         instruction:
           video:
             id: '37963'
@@ -1447,7 +1447,7 @@ concepts:
           office_hours_link: null
         instructor_notes: |-
           ### z-值表
-          你可以使用<a href="http://www.utdallas.edu/dept/abp/zscoretable.pdf" target="_blank">此 z-值表</a>。
+          你可以使用<a href="http://www.utdallas.edu/dept/abp/zscoretable.pdf" target="_blank">此 z 值表</a>。
         instruction:
           video:
             id: '38976'
@@ -1690,7 +1690,7 @@ concepts:
 
           你可以在<a href="https://docs.google.com/forms/d/18rZ99YZfG9JfHHC2rvIW7MFdijuAaBhj3NkDuRjvwro/viewform?usp=send_form" target="_blank">此处</a>完成调查。
 
-          先谢谢你！
+          谢谢你！
         instruction:
           video:
             id: null
