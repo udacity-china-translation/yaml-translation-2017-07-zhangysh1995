@@ -113,7 +113,7 @@ concepts:
         tags: []
         instructor_notes: |-
           ### 统计学课程
-          如果需要详细学习统计学，或温习一些已经学过的相关知识，请查看优达学城的 <a href="https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827/" target="_blank">描述性统计学</a>和 <a href="https://cn.udacity.com/course/intro-to-inferential-statistics--ud201/" target="_blank">推断统计学</a>课程。
+          如果需要详细学习统计学，或温习一些已经学过的相关知识，请查看优达学城的 <a href="https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827/" target="_blank">描述统计学</a>和 <a href="https://cn.udacity.com/course/intro-to-inferential-statistics--ud201/" target="_blank">推论统计学入门</a>课程。
         resources:
           files: []
           google_plus_link: null
@@ -164,14 +164,14 @@ concepts:
 
           **视频中提到的例子：**
           * Google <a href="http://www.nytimes.com/2009/03/01/business/01marissa.html?pagewanted=3" target="_blank">测试了 41 种不同的蓝色阴影</a>。
-          * Amazon 通过一项 <a href="http://www.exp-platform.com/Documents/GuideControlledExperiments.pdf" target="_blank">增加 A/B 测试这种特性可以提高收益</a>（见简介第二段）。
-          * LinkedIn <a href="http://engineering.linkedin.com/mobile/mobile-ab-testing-linkedin-how-members-shape-our-apps" target="_blank"> 测试了是否应该将最新新闻文章或建议添加更多联系人的提示放在用户信息流的榜首</a>（参见“基于 JSON 观点的 A/B 测试”部分中的第一段）。
-          * Amazon 确定了<a href="http://www.exp-platform.com/Documents/IEEEComputer2007OnlineExperiments.pdf" target="_blank"> 页面加载时间每增加 100 毫秒，销量将下降 1%</a>（最后一页的“二级指标”部分）。
+          * Amazon 决定启动第一项个性化产品推荐方法 <a href="http://www.exp-platform.com/Documents/GuideControlledExperiments.pdf" target="_blank">因为 A/B 测试得出了添加这种特性可以提高收益的结论</a>（见简介第二段）。
+          * LinkedIn <a href="http://engineering.linkedin.com/mobile/mobile-ab-testing-linkedin-how-members-shape-our-apps" target="_blank">测试了是否应该将最新新闻文章或建议添加更多联系人的提示放在用户信息流的榜首</a>（参见“基于 JSON 观点的 A/B 测试”部分中的第一段）。
+          * Amazon 确定了<a href="http://www.exp-platform.com/Documents/IEEEComputer2007OnlineExperiments.pdf" target="_blank">页面加载时间每增加 100 毫秒，销量将下降 1%</a>（最后一页的“二级指标”部分）。
           * Google 的<a href="http://googleresearch.blogspot.com/2009/06/speed-matters.html" target="_blank">延迟结果</a>证明了 100 毫秒延迟有同样的影响 。
 
           **其他例子：**
 
-          * Kayak <a href="http://apptimize.com/blog/2014/03/kayaks-most-interesting-ab-test/" target="_blank">测试了用户在已知他们的支付被加密的情况下，完成这份订单的概率变化</a>。
+          * Kayak <a href="http://apptimize.com/blog/2014/03/kayaks-most-interesting-ab-test/" target="_blank">测试了如果告知用户他们的支付被加密的情况下，用户完成这份订单概率的变化</a>。
           * 可汗学院 (Khan Academy) 测试了<a href="http://apptimize.com/blog/2014/07/how-khan-academy-uses-ab-testing-to-improve-student-learning/" target="_blank"> 让学生知道有多少其他学生正在跟他们一起做同样的练习，或使学生更容易地通过他们已经掌握的技能等变化的效果</a>（参见问题“你见过的最有意思的 A/B 测试是什么？”）。
         resources:
           files: []
@@ -225,7 +225,7 @@ concepts:
           office_hours_link: null
         instructor_notes: |-
           ### 跳至示例 A/B 测试
-          <a href="https://classroom.udacity.com/courses/ud257/lessons/4018018619/concepts/40043986830923" target="_blank">单击此处</a>跳至我们将在课程的剩余部分进行分析的 A/B 测试描述实例，。
+          <a href="https://classroom.udacity.com/courses/ud257/lessons/4018018619/concepts/40043986830923" target="_blank">单击此处</a>跳至我们将在课程的剩余部分进行分析的 A/B 测试描述实例。
         instruction:
           video:
             id: '28050'
@@ -487,7 +487,7 @@ concepts:
     key: '40043986840923'
     locale: zh-cn
     version: 1.0.0
-    title: 公制选择
+    title: 指标选择
     semantic_type: Concept
     updated_at: 'Sun Sep 04 2016 13:25:23 GMT+0000 (UTC)'
     is_public: true
@@ -499,7 +499,7 @@ concepts:
         key: '4004398684'
         locale: zh-cn
         version: 1.0.0
-        title: 公制选择
+        title: 指标选择
         semantic_type: VideoAtom
         updated_at: 'Wed Jun 28 2017 00:26:28 GMT+0000 (UTC)'
         is_public: true
